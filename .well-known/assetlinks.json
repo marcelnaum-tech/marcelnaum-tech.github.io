@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.marcelnaumtech.brewsaw",
+      "sha256_cert_fingerprints": [
+        "7A:1F:2C:AC:1A:B9:15:4A:94:B3:65:10:34:AF:44:5D:18:EF:F5:3F:47:F3:17:DC:D5:05:5D:EC:82:86:BE:16"
+      ]
+    }
+  }
+]
